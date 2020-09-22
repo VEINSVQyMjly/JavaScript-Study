@@ -1,2 +1,2 @@
 # JavaScript-Study
-项目描述
+JS编程练习
