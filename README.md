@@ -1,2 +1,2 @@
 # JavaScript-Study
-JS编程练习
+学习红宝书，练习一下简单代码
